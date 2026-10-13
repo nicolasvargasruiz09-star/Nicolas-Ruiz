@@ -118,6 +118,7 @@ Aprendiz de Análisis y Desarrollo de Software (ADSO) del SENA, interesado en la
 *Las últimas tres entradas describen áreas de aprendizaje, no certificaciones oficiales.*
 
 
+
 Lenguajes de Programación: 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
