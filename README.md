@@ -1,121 +1,98 @@
-# **Nicolás Vargas Ruiz**
+# 👨‍💻 Nicolás Vargas Ruiz
 
-**Aprendiz de Análisis y Desarrollo de Software (ADSO) | Desarrollador de software en formación**
+### 💻 Aprendiz de Análisis y Desarrollo de Software | SENA
 
----
+Desarrollador de software en formación, apasionado por la tecnología, la programación y la creación de soluciones digitales. Actualmente fortaleciendo mis conocimientos en desarrollo web, programación orientada a objetos y bases de datos, mediante proyectos académicos y ejercicios prácticos.
 
-## **📞 Información de contacto**
-
-* **Teléfono:** \[Agregar número de contacto\]  
-* **Correo electrónico:** \[Agregar correo profesional\]  
-* **Ubicación:** Medellín, Antioquia, Colombia  
-* **LinkedIn:** \[Agregar enlace a tu perfil\]  
-* **Portafolio / GitHub:** \[Agregar enlace a tus proyectos\]
+📍 Medellín, Colombia  
+🎓 SENA — Análisis y Desarrollo de Software (ADSO)  
+🚀 Enfocado en aprender, construir y mejorar continuamente.
 
 ---
 
-## **💡 Perfil profesional**
+## 🛠️ Tecnologías y herramientas
 
-Aprendiz de Análisis y Desarrollo de Software (ADSO) del SENA, interesado en la programación, el desarrollo de aplicaciones y la creación de soluciones tecnológicas. Cuenta con conocimientos en formación en Python, Java, HTML, CSS, PHP y SQL, además del manejo de bases de datos relacionales y no relacionales. Se caracteriza por su disposición para aprender, resolver problemas y desarrollar proyectos académicos orientados a necesidades reales. Busca fortalecer sus habilidades técnicas y adquirir experiencia en el sector del desarrollo de software.
+### Lenguajes de programación
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,php" alt="Python, Java y PHP" />
+</p>
 
-## **💼 Experiencia y proyectos**
+### Desarrollo web
 
-### **Desarrollador de software en formación — Proyectos académicos del SENA**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="HTML, CSS y Bootstrap" />
+</p>
 
-*En formación | Medellín, Colombia*
+### Bases de datos
 
-* Desarrollo de ejercicios y algoritmos de programación utilizando PSeInt, Python y Java.  
-* Creación de páginas web con HTML, CSS y Bootstrap, trabajando en diseños, formularios y pantallas de inicio de sesión.  
-* Diseño y gestión de bases de datos utilizando MySQL, PostgreSQL y MongoDB.  
-* Implementación de conceptos de programación orientada a objetos, como clases, atributos, métodos, encapsulamiento y herencia.  
-* Desarrollo de propuestas de software para resolver necesidades de negocios, como catálogos digitales, inventarios y sistemas de gestión.
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL, PostgreSQL y MongoDB" />
+</p>
 
-*Nota: Esta sección describe proyectos académicos y no presupone experiencia laboral formal.*
+### Entornos y herramientas
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github" alt="Visual Studio Code, IntelliJ IDEA, Git y GitHub" />
+</p>
 
-## **🎓 Formación académica**
-
-### **Análisis y Desarrollo de Software (ADSO)**
-
-**Servicio Nacional de Aprendizaje (SENA)**
-
-* Formación en programación, desarrollo de software, bases de datos y construcción de aplicaciones.  
-* Estado: En formación.
-
-### **Bachillerato**
-
-**\[Nombre de la institución educativa\]**
-
-* Estado: \[Título obtenido o en curso\].
+**Otros conocimientos:** PSeInt, lógica de programación, algoritmos, SQL y programación orientada a objetos (POO).
 
 ---
 
-## **🛠️ Habilidades tecnológicas**
+## 🚀 Áreas de interés
 
-### **💻 Lenguajes de programación**
-
-* Python  
-* Java  
-* PHP  
-* PSeInt (pseudocódigo y algoritmos)
-
-### **🌐 Desarrollo web**
-
-* HTML5  
-* CSS3  
-* Bootstrap
-
-### **🗄️ Bases de datos**
-
-* MySQL  
-* PostgreSQL  
-* MongoDB  
-* SQL y consultas de datos  
-* Procedimientos almacenados
-
-### **⚙️ Herramientas de desarrollo**
-
-* IntelliJ IDEA  
-* MySQL Workbench  
-* pgAdmin  
-* Visual Studio Code  
-* GitHub: \[Agregar cuando tengas experiencia con la herramienta\]
-
-### **🧩 Fundamentos de software**
-
-* Programación orientada a objetos (POO)  
-* Lógica de programación y algoritmos  
-* Modelado de bases de datos  
-* Diseño de soluciones tecnológicas  
-* Desarrollo de interfaces y formularios
-
-### **🤝 Habilidades blandas**
-
-* Pensamiento lógico  
-* Resolución de problemas  
-* Aprendizaje continuo  
-* Creatividad  
-* Organización  
-* Trabajo en equipo
-
-### **🌎 Idiomas**
-
-* Español: Nativo.  
-* Inglés: \[Indicar nivel real\].
+- 🌐 Desarrollo de aplicaciones web.
+- 🧠 Lógica de programación y resolución de problemas.
+- 🗄️ Diseño, administración y consulta de bases de datos.
+- 🏗️ Programación orientada a objetos.
+- 🛒 Sistemas de inventario, catálogos digitales y aplicaciones empresariales.
+- 📚 Aprendizaje continuo de nuevas tecnologías.
 
 ---
 
-## **📚 Cursos, certificaciones y formación continua**
+## 📂 Proyectos
 
-* **Análisis y Desarrollo de Software (ADSO)** — SENA, en formación.  
-* **Programación en Python, Java y PSeInt** — Aprendizaje y práctica mediante ejercicios académicos.  
-* **Desarrollo web con HTML, CSS y Bootstrap** — Práctica en proyectos académicos.  
-* **Bases de datos SQL y NoSQL** — Práctica con MySQL, PostgreSQL y MongoDB.
+Actualmente estoy construyendo mi portafolio mediante proyectos académicos y prácticas de desarrollo.
 
-*Las últimas tres entradas describen áreas de aprendizaje, no certificaciones oficiales.*
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| 🌐 Aplicaciones web | Interfaces, formularios y páginas web. | HTML, CSS, Bootstrap |
+| 🗄️ Gestión de bases de datos | Diseño de tablas, consultas SQL y procedimientos almacenados. | MySQL, PostgreSQL |
+| 📦 Gestión de inventario | Modelado de datos y operaciones para administrar productos y existencias. | SQL, MongoDB |
+| 🐍 Ejercicios de programación | Algoritmos, clases, métodos y lógica de programación. | Python, Java, PSeInt |
+
+*Los enlaces a los repositorios se añadirán a medida que publique cada proyecto en GitHub.*
+
+---
+
+## 🎯 Objetivos profesionales
+
+- Fortalecer mis habilidades como desarrollador de software.
+- Construir aplicaciones funcionales, organizadas y fáciles de utilizar.
+- Mejorar mis conocimientos en desarrollo backend y frontend.
+- Aprender buenas prácticas de programación y control de versiones.
+- Participar en proyectos colaborativos y adquirir experiencia profesional.
+
+---
+
+## 🤝 Conectemos
+
+Estoy abierto a aprender de otros desarrolladores, compartir conocimientos y participar en proyectos que me permitan seguir creciendo profesionalmente.
+
+📧 **Correo:** [Tu correo electrónico]  
+💼 **LinkedIn:** [Tu perfil de LinkedIn]  
+🐙 **GitHub:** [Tu nombre de usuario]
+
+---
+
+<p align="center">
+  <i>“Cada proyecto es una oportunidad para aprender algo nuevo y convertir una idea en una solución.”</i>
+</p>
+
+<p align="center">
+  ⭐ Gracias por visitar mi perfil.
+</p>
 
 
 
