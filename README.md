@@ -82,8 +82,7 @@ Actualmente estoy construyendo mi portafolio mediante proyectos académicos y pr
 
 Estoy abierto a aprender de otros desarrolladores, compartir conocimientos y participar en proyectos que me permitan seguir creciendo profesionalmente.
 
-📧 **Correo:** [Tu correo electrónico]  
-💼 **LinkedIn:** [Tu perfil de LinkedIn]  
+📧 **Correo:** nicolasvaragsruiz09@gmail.com   
 🐙 **GitHub:** [Tu nombre de usuario]
 
 ---
