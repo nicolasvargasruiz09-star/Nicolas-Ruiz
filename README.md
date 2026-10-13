@@ -1,6 +1,4 @@
-# 👨‍💻 Nicolás Vargas Ruiz
-
-<p align="center">
+#<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Nicol%C3%A1s+Vargas+Ruiz;Aprendiz+de+Desarrollo+de+Software;Python+%7C+Java+%7C+PHP;HTML+%7C+CSS+%7C+Bootstrap;MySQL+%7C+PostgreSQL+%7C+MongoDB;Transformando+ideas+en+soluciones" alt="Presentación animada de Nicolás Vargas Ruiz" />
 </p>
 
