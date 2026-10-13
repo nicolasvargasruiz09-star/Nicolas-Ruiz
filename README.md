@@ -6,10 +6,11 @@
 
 ## **📞 Información de contacto**
 
-* **Teléfono:** \3185810679  
-* **Correo electrónico:** \nicolasvaragsruiz09@gmail.com  
-* **Ubicación:** Medellín, Antioquia, Colombia   
-* **Portafolio / GitHub:** \https://github.com/nicolasvargasruiz09-star/Nicolas-Ruiz
+* **Teléfono:** \[Agregar número de contacto\]  
+* **Correo electrónico:** \[Agregar correo profesional\]  
+* **Ubicación:** Medellín, Antioquia, Colombia  
+* **LinkedIn:** \[Agregar enlace a tu perfil\]  
+* **Portafolio / GitHub:** \[Agregar enlace a tus proyectos\]
 
 ---
 
@@ -46,9 +47,9 @@ Aprendiz de Análisis y Desarrollo de Software (ADSO) del SENA, interesado en la
 
 ### **Bachillerato**
 
-**\ASIA IGNACIIANA**
+**\[Nombre de la institución educativa\]**
 
-* Estado: \tecnólogo en ADSO.
+* Estado: \[Título obtenido o en curso\].
 
 ---
 
@@ -103,7 +104,7 @@ Aprendiz de Análisis y Desarrollo de Software (ADSO) del SENA, interesado en la
 ### **🌎 Idiomas**
 
 * Español: Nativo.  
-* Inglés: A2.
+* Inglés: \[Indicar nivel real\].
 
 ---
 
@@ -115,6 +116,7 @@ Aprendiz de Análisis y Desarrollo de Software (ADSO) del SENA, interesado en la
 * **Bases de datos SQL y NoSQL** — Práctica con MySQL, PostgreSQL y MongoDB.
 
 *Las últimas tres entradas describen áreas de aprendizaje, no certificaciones oficiales.*
+
 
 Lenguajes de Programación: 
 
