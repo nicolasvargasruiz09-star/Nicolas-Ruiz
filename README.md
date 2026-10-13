@@ -9,7 +9,7 @@
 * **Teléfono:** \3185810679  
 * **Correo electrónico:** \nicolasvaragsruiz09@gmail.com  
 * **Ubicación:** Medellín, Antioquia, Colombia   
-* **Portafolio / GitHub:** \[Agregar enlace a tus proyectos\]
+* **Portafolio / GitHub:** \https://github.com/nicolasvargasruiz09-star/Nicolas-Ruiz
 
 ---
 
