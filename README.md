@@ -1,6 +1,8 @@
 # 👨‍💻 Nicolás Vargas Ruiz
 
-### 💻 Aprendiz de Análisis y Desarrollo de Software | SENA
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7C843&center=true&vCenter=true&width=700&lines=Desarrollador+de+Software;Desarrollo+Web+Full+Stack;PostgreSQL+%7C+REST+APIs+%7C+JWT;Transformando+ideas+en+soluciones" alt="Presentación animada" />
+</p>
 
 Desarrollador de software en formación, apasionado por la tecnología, la programación y la creación de soluciones digitales. Actualmente fortaleciendo mis conocimientos en desarrollo web, programación orientada a objetos y bases de datos, mediante proyectos académicos y ejercicios prácticos.
 
